@@ -1,0 +1,36 @@
+stic_request
+
+Request
+ sender:(http://dxa.gov.au/definition/trc/de26)
+ requestor:(http://dxa.gov.au/definition/trc/de26)
+ abn:(http://dxa.gov.au/definition/trc/de26)
+ action:(http://dxa.gov.au/definition/trc/de13082)
+ person:Person
+ address:Address
+ account:Account
+
+Account
+ accountNumber:(http://dxa.gov.au/definition/trc/de7461)
+ accountStatus:(http://dxa.gov.au/definition/trc/de7393)
+ accountStatusDate:(http://dxa.gov.au/definition/trc/de13995)
+ usi:(http://dxa.gov.au/definition/trc/de7395)
+
+Person
+ tfn:(http://dxa.gov.au/definition/trc/de27)
+ dayOfBirth:(http://dxa.gov.au/definition/trc/de13055)
+ monthOfBirth:(http://dxa.gov.au/definition/trc/de13056)
+ yearOfBirth:(http://dxa.gov.au/definition/trc/de13057)
+ surname:(http://dxa.gov.au/definition/trc/de40)
+ givenName:(http://dxa.gov.au/definition/trc/de41)
+ middleName:(http://dxa.gov.au/definition/trc/de42)
+
+Address
+ line1:(http://dxa.gov.au/definition/trc/de17)
+ line2:(http://dxa.gov.au/definition/trc/de18)
+ suburb:(http://dxa.gov.au/definition/trc/de19)
+ postcode:(http://dxa.gov.au/definition/trc/de21)
+ state:(http://dxa.gov.au/definition/trc/de22)
+ country:(http://dxa.gov.au/definition/trc/de15)
+
+
+
