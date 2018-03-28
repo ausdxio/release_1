@@ -1,0 +1,26 @@
+# Financial Risk Credit Exposures Excl Revolving Facilities With Early Amortisation Provision And Other Exceptions 50 Percent Amount
+
+## identifier
+de7999
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of credit exposures (on and off-balance sheet) excluding the following:
+
+- those related to revolving facilities, being exposures arising from redrawable facilities, other than exposures in the nature of redrawable home loans where the amounts likely to be redrawn are expected to be immaterial relative to the size of the pool;
+- the most senior exposure in a securitisation (e.g. the most senior tranche of securities issued by the SPV or an obligation under a facility that ranks ahead of the first tranche);
+- asset-backed commercial paper securitisation (i.e. where the securities issued are predominantly commercial paper with an original maturity of one year or less) exposures in a second loss, or better, position;
+- undrawn eligible facilities; and
+- undrawn eligible servicer cash facilities.
+
+Only exclude those revolving facility exposures where the reporting party has transferred a pool of the revolving exposures into a securitisation that contains an early amortisation provision.
+
+A credit exposure represents asset, liability, claim or commitment of an entity, which may be recorded on or off the balance sheet and which gives rise to credit risk.
+
+Only report 50% of the resulting amount at this item.
+

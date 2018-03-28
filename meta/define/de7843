@@ -1,0 +1,22 @@
+# Financial Risk Capital Adequacy Capitalised Other ARF 110 0 1 And ARF 110 0 2 Amount
+
+## identifier
+de7843
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of capitalised expenses other than those already listed on ARF_110_0_1 and ARF_110_0_2 (where applicable). This includes capitalised expenses of a general nature, such as strategic business development initiatives, and other forms of transaction costs and like costs that are required to be deferred/capitalised and amortised in accordance with accounting standards.
+
+This item is reported as a deduction from Tier 1 capital for capital adequacy purposes and is to be determined in accordance with the Banking Act 1959, relevant Prudential Standards and associated Guidance Notes.
+
+The balance of any transaction costs and like items that are capitalised and deferred as an asset must be netted off against the balance of any income deferred as a liability relating to the products giving rise to the capitalised transaction costs (i.e. only deferred costs and income in particular product portfolios may be netted). 
+
+Any positive net balance of capitalised transaction costs must be deducted from Tier 1 capital in accordance with the relevant Prudential Standard. Any surplus of up-front fee income received over deferred costs may be added to Tier 1 capital provided the up-front fee income received satisfies the criteria set under Prudential Standard APS 111. Otherwise, up-front fee income received must not be added to capital.
+

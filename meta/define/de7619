@@ -1,0 +1,20 @@
+# Assets Debt Securities Bills Of Exchange Accepted Amount
+
+## identifier
+de7619
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of Bills of Exchange held by the reporting party as at the relevant date that have been accepted, or accepted and endorsed, by the reporting party.
+
+A bill of exchange is an unconditional order drawn (issued) by one party, sent to another party (usually a bank) for acceptance and made out to, or to the order of, a third party, or to bearer.
+
+Accepted bills of exchange have been signed by an entity as the drawee which 'accepts' liability to pay out the funds on the due date.
+
+Endorsement of a bill of exchange creates a contingent liability by the endorser to pay out the funds conditional on the bearer/holder demanding payment
+

@@ -1,0 +1,29 @@
+# Financial Risk Capital Adequacy Securitisation Related Items Other And Deductible Credit Exposures Fifty Percent Amount
+
+## identifier
+de7998
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+     
+This is the value, as at the relevant date, of unrated securitisation credit exposures that  are deductible from capital, plus all other applicable securitisation related amounts.
+     
+Other securitisation related amounts represent total securitisation-related amounts, other than those amounts classified as any of the following: 
+     - start-up and other establishment costs of a securitisation, where the costs have been capitalised.
+     - gain-on-sale, including expected future income from a securitisation exposure that the reporting party reports as an on-balance sheet asset or profit, until irrevocably received;
+     - funds provided by the reporting party to establish a spread, reserve or similar account, until the funds are irrevocably paid to the reporting party;
+     - the difference between the book value and the amount received by the reporting party, where the originating reporting party transfers exposures to an SPV below their book value, unless it is written off in the reporting party's profit and loss (and capital) accounts; and
+     - any other applicable amounts;
+
+This item represents a 50/50 capital adequacy deduction, therefore only report 50 per cent of the asset amount at this item. This amount is to be deducted from both Tier 1 and Tier 2 capital.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+A securitisation represents a structure (a special purpose vehicle, or SPV) where the cash flows from a pool (of assets, or interests in assets) is used to service obligations to creditors (typically holders of debt securities) who fund the SPV.
+

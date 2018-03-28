@@ -1,0 +1,21 @@
+# Financial Risk Credit Performance Related Contingencies Amount
+
+## identifier
+de7904
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any potential credit exposures arising from performance-related contingencies.     
+      
+A performance-related contingency represents a contingent (off-balance sheet) liability that involves an irrevocable obligation to pay a third party in the event that a counterparty fails to fulfil or perform a contractual non-monetary obligation, such as delivery of goods by a specified date, etc (i.e. the risk of loss depends on a future event that is not directly related to the creditworthiness of the counterparty involved). This includes but is not limited to the following:
+     - issue of performance bond;
+     - bid bonds;
+     - warranties;
+     - indemnities; and
+     - standby letters of credit in relation to a non-monetary obligation of a counterparty under a particular transaction.
+

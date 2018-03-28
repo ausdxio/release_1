@@ -1,0 +1,18 @@
+# Liabilities Insurance Unearned Premium Income Amount
+
+## identifier
+de7465
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of premium income received in advance which is still unearned and is classified as a liability to the entity.
+
+Unearned premium income is that portion of the written premium applicable to the unused part of the period for which the premium has been paid.
+
+Premiums, as defined by the Australian Accounting Standards, are amounts charged in relation to accepting risk from the insured, but do not include amounts collected on behalf of third parties
+

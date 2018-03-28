@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Term Non Standard Approved Other ARF 320 8 Amount
+
+## identifier
+de7655
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of any other non-standard term loans held by the reporting party and approved during the relevant period, irrespective of whether the funds have been advanced to the borrower. This is to be determined in accordance with prudential standards and reported as required on APRA form ARF_320_8.
+
+This balancing item represents all term loans other than those classified as any of the following
+- Interest only loans; or
+- Low-documentation loans.
+

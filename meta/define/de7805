@@ -1,0 +1,16 @@
+# Financial Risk Credit General Reserve For Credit Losses Amount
+
+## identifier
+de7805
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of General Reserve for Credit Losses (GRCL), net of tax. Any deferred tax assets (DTA) associated with the collective provisions eligible to be included in the GRCL must be removed.
+
+General Reserve for Credit Losses represents a reserve established that, as a minimum, covers credit losses prudently estimated but not certain to arise over the full life of all the individual facilities making up the business of an entity. GRCL is to be determined in accordance with Prudential Standard APS 220.
+

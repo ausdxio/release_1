@@ -1,0 +1,30 @@
+# NAME
+
+## identifier
+def01
+
+## status
+drafts [published|candidate|..]
+
+## type
+
+float [int|string|boolean ]
+
+## definition
+
+the definition
+
+## guidance
+
+the guidance
+
+## enumerations
+- 
+
+## facets
+- length=5
+
+## syntax
+
+### techA
+- columnName=col

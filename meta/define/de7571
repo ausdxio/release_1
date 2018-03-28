@@ -1,0 +1,27 @@
+# Labour Statistics Employees Per ARF332 Count
+
+## identifier
+de7571
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number of persons working for the reporting party during the last pay period in the relevant period
+Include:
+- persons paid a retainer, wage or salary;
+- working proprietors and partners;
+- full-time and part-time employees;
+- permanent, temporary and casual employees;
+- managerial and executive employees;
+- employees absent on paid or prepaid leave; and
+- employees on workers' compensation who continue to be paid through the payroll.
+Exclude:
+- persons paid by commission only;
+- non-salaried directors;
+- self employed persons such as consultants and contractors; and
+- volunteers.
+

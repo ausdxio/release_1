@@ -1,0 +1,14 @@
+# Assets Cash And Liquid Assets Payment Settlement Amount
+
+## identifier
+de7663
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for payments and settlements due from financial institutions.
+

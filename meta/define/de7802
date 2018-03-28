@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Tier 2 Deductions Other APRA Advised Amount
+
+## identifier
+de7802
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all other Tier 2 capital deductions, as advised by APRA. 
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

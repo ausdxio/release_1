@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Tier 2 Net Amount
+
+## identifier
+de7801
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of net, or eligible, Tier 2 capital. 
+
+Net, or eligible, Tier 2 capital represents the sum of net Upper Tier 2 capital and net Lower Tier 2 capital, net of any Tier 2 capital deductions.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

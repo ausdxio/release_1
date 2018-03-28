@@ -1,0 +1,16 @@
+# Financial Risk Credit Direct Credit Substitutes Bill Endorsements Amount
+
+## identifier
+de7926
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of bills that have been endorsed under bill endorsement lines, but have not been accepted by, or have the prior endorsement of, another ADI. Report only bills that constitute direct credit substitutes.
+     
+A direct credit substitute is any irrevocable off-balance sheet obligation that carries the same credit risk as a direct extension of credit, such as an undertaking to make a payment to a third party in the event that a counterparty fails to meet a financial obligation, or an undertaking to a counterparty to acquire a potential claim on another party in the event of default by that party (i.e. the risk of loss depends on the creditworthiness of the counterparty or the party on that a potential claim is acquired).
+

@@ -1,0 +1,20 @@
+# Financial Risk Market Options Foreign Exchange Purchased Positions Amount
+
+## identifier
+de7889
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of foreign exchange (including gold) options the entity has purchased, as determined in accordance with relevant prudential standards.
+
+A bought option includes both put and call options that have been purchased by an entity. It provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+A foreign exchange contract is any contract that transfers the exchange rate risk of an underlying asset from one party to another.
+
+A gold contract is any contract that transfers the gold price risk associated with an underlying asset from one party to another.
+

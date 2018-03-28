@@ -1,0 +1,16 @@
+# Financial Risk Credit Exposures Revolving With Early Amortisation Excl Immaterial Home Loans Amount
+
+## identifier
+de7977
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of exposures (on and off balance sheet) arising from revolving facilities, being exposures arising from redrawable facilities, other than exposures in the nature of redrawable home loans where the amounts likely to be redrawn are expected to be immaterial relative to the size of the pool.
+
+Revolving facilities are only applicable to this item where the reporting party transfers a pool of revolving exposures into a securitisation that contains an early amortisation provision.
+

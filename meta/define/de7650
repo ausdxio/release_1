@@ -1,0 +1,23 @@
+# Assets Loans And Receivables Term Non Standard Other ARF 320 8 Count
+
+## identifier
+de7650
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of the number of any other non-standard term loans, as determined in accordance with prudential standards, as required to be reported on APRA form ARF_320_8.
+
+This balancing item represents the number of all term loans other than those classified as any of the following:
+- Loans with offset facilities;
+- Loans with redraw facilities;
+- Interest only loans;
+- Reverse loans; or
+- Low-documentation loans.
+

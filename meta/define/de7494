@@ -1,0 +1,16 @@
+# Liabilities Deposits Transaction Non Cheque Amount
+
+## identifier
+de7494
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the balance of deposit accounts held by the reporting party as at the relevant date, for which the reporting party has not issued a cheque book and from which the reporting party is able to make payments to parties other than the account holder.
+
+Deposits are amounts which are redeemable or withdrawable by depositors from the reporting party. The value of this item is to be determined in accordance with accounting standards.
+

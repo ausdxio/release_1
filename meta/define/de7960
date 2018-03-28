@@ -1,0 +1,16 @@
+# Financial Risk Credit Off Balance Sheet Non Market Related Exposures Description
+
+## identifier
+de7960
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This is the description of the transaction that gives rise to the non-market related off-balance sheet credit exposures.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

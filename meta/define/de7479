@@ -1,0 +1,14 @@
+# Assets Margin Lending Amount
+
+## identifier
+de7479
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for outstanding margin loans advanced to borrowers. Margin loans are amounts lent for the purpose of purchasing financial assets (where these assets are used as collateral for the loan), like taking leveraged trading positions.
+

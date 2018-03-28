@@ -1,0 +1,18 @@
+# Assets Loans And Receivables Term Offset Count
+
+## identifier
+de7645
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number of term loans held by the reporting party as at the relevant date, and which have an offset account attached to them.
+
+An offset account is typically a deposit account in which the balance is either wholly or party offset against the loan balance for the purposes of calculating interest.
+
+For the purposes of this item exclude loans that have been written-off, but include all-in-one facilities (that is where the loan and deposits are effectively combined in a single account).
+

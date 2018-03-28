@@ -1,0 +1,18 @@
+# Financial Risk Credit Credit Exposures Category Three Facilities Adjusted Balance Amount
+
+## identifier
+de7787
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the adjusted balance of accounts at the relevant date that meet the provisioning requirements in accordance with the Prescribed Provisioning methodology outlined in the relevant prudential standards, but have not been classified by the reporting party as Category One, Two or Four facilities.
+
+The adjusted balance is the "Outstanding balance" (see below) offset by the amount of any collateral security held that satisfies the requirements of the relevant prudential standards, or APRA has agreed on an appropriate basis to ascribe value for security purposes.
+
+Outstanding balances should be reported net of interest and other income not taken to profit, and net of any amounts written off. For overdraft facilities and revolving lines of credit, the outstanding balance is to be reported as the total amount of the facility outstanding, and not the amount that the facility exceeds the previously approved limit. For overdrawn savings accounts, the outstanding balance represents the debit balance of the account.
+

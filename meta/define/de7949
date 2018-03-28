@@ -1,0 +1,20 @@
+# Financial Risk Credit On Balance Sheet Exposures Weighted Average PD Percent
+
+## identifier
+de7949
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the exposure weighted average probability of default (PD) for on-balance sheet credit exposures.
+
+Probability of default (PD) represents the risk of obligor default.
+
+A credit exposure represents an asset, liability, claim or commitment of an entity, which may be recorded on or off the balance sheet and which gives rise to credit risk.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+

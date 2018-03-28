@@ -1,0 +1,16 @@
+# Financial Risk Credit Prescribed Provision Category Two Amount
+
+## identifier
+de7790
+
+## status
+Standard
+
+## type
+float
+
+## definition
+The prescribed provision for Category Two facilities as determined in accordance with the prudential standards.
+
+Category Two facilities are any exposure that is secured by a registered first mortgage against a residential property, where the ratio of the outstanding balance, less the amount of mortgage insurance, to the valuation of the security is greater than 80 per cent but no more than 100 per cent (where the loan is 6 months or more worth of payments past due, the valuation must be no older than 12 months).
+

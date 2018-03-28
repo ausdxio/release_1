@@ -1,0 +1,16 @@
+# Financial Risk Credit Sale And Repurchase Agreements Amount
+
+## identifier
+de7929
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any potential credit exposures arising from sale and repurchase agreements ('Repos').
+     
+Sale and repurchase agreements represent arrangements whereby an entity sells a loan, security or other asset to another party with a commitment to repurchase the asset at an agreed price on an agreed future date.
+

@@ -1,0 +1,24 @@
+# Financial Risk Capitalised Loan Lease Origination Fees Commissions Amount
+
+## identifier
+de7682
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of capitalised loan and lease origination fees and commissions paid to mortgage originators and brokers. 
+
+Loan/lease origination/broker fees and commissions that are capitalised as an asset are to be set off against the balance of upfront loan/lease fees associated with the lending portfolios that are treated as deferred income and recognised as a liability.
+
+Where the net amount for loan/lease origination fees and commissions:
+
+     (a) has a positive balance, this item must be reported as a positive figure.
+
+     (b) has a negative balance, provided the deferred income satisfies the criteria set out in APS 111, this item may be reported as a negative figure. Where the criteria are not satisfied, this item must be reported as zero.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+

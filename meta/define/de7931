@@ -1,0 +1,22 @@
+# Financial Risk Credit Non Market Related Forward Asset Purchases Amount
+
+## identifier
+de7931
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any potential credit exposures arising from forward asset purchases deemed non-market-related off-balance sheet transactions.. 
+     
+A forward asset purchase is a commitment to purchase at a specified future date, and on pre-arranged terms, a loan, security or other asset from another entity, including written put options on specified assets with the character of a credit enhancement.
+
+For the purposes of this item, non-market-related off-balance sheet forward asset purchases exclude: 
+     
+- commitments where the entity purchasing the asset has an unequivocal right to substitute cash settlement in place of accepting delivery of the asset, and the price on settlement is calculated with reference to a general market price indicator (and not to the financial condition of any specific entity). This is deemed a market-related off-balance sheet transaction; and
+     
+- written put options expressed in terms of market rates for currencies or financial instruments bearing no credit risk. This is also deemed a market-related off-balance sheet transaction.
+

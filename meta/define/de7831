@@ -1,0 +1,14 @@
+# Assets Cash And Liquid Assets Negotiable Certificates Of Deposit Amount
+
+## identifier
+de7831
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for negotiable certificates of deposit (NCD). NCDs are short-term debt securities, repayable at a fixed date. The NCD trades at a discount from face value.
+

@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Upper Tier 2 APRA Adjustments Amount
+
+## identifier
+de7730
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all other adjustments to Upper Tier 2 capital approved by APRA. 
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

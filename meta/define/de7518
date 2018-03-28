@@ -1,0 +1,21 @@
+# Income Realised Gain Loss Derivatives Net Amount
+
+## identifier
+de7518
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the net realised gains and losses in relation to the disposal of derivatives during the relevant period.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+This item excludes foreign exchange gains (losses) from currency conversions of derivatives.
+

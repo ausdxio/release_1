@@ -1,0 +1,16 @@
+# Financial Risk Credit Assets Sold With Recourse Amount
+
+## identifier
+de7930
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any potential credit exposures arising from assets sold with recourse.
+     
+Assets sold with recourse are asset sales (to the extent that such assets are not included on-balance sheet) by an entity where the holder of the asset is entitled to 'put' the asset back to the entity within an agreed period or under certain prescribed circumstances (e.g. deterioration in the value or credit quality of the asset concerned).
+

@@ -1,0 +1,20 @@
+# Financial Risk Credit Unsettled DvP And Non DvP Transactions Standardised Approach Amount
+
+## identifier
+de7869
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the sum of delivery-versus-payment (DvP) transactions that remain unsettled 5 business days or more after their due delivery dates, and non-DvP transactions that remain unsettled for 4 or less business days after their due delivery dates.
+
+Exclude repurchase and reverse-repurchase agreements as well as securities lending and borrowing.
+
+Delivery-versus-payment transactions are those transactions of securities using a settlement mechanism which links the securities transfer and the funds transfer in such a way as to ensure that delivery occurs if, and only if, the corresponding payment occurs.
+
+This item is reported as part of the credit risk component for capital adequacy purposes and is to be determined under the standardised approach to credit risk in accordance with relevant prudential standards.
+

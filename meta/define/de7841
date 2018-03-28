@@ -1,0 +1,16 @@
+# Assets Cash And Liquid Assets HQLA Adjusted Total Amount
+
+## identifier
+de7841
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of all High Quality Liquid Assets as determined in accordance with the relevant prudential standards, net of the value of adjusted HQLA Deposit Liabilities.
+
+Adjusted HQLA Deposit Liabilities are High Quality Liquid Asset deposits held by the reporting party as at the relevant date, and which are capable of being redeemed or withdrawn by depositors from the reporting party within 2 business days, with or without penalty. The value of Adjusted HQLA Deposit Liabilities is limited to the value of HQLA Deposit Assets, which are the High Quality Liquid Asset deposits at the relevant date redeemable or withdrawable by the reporting party on demand or within 2 business days. The net value is determined by reducing the deposit amount by any break costs or early withdrawal penalties that would be applied for redeeming the deposit within 2 business days.
+

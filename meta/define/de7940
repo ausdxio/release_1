@@ -1,0 +1,22 @@
+# Financial Risk Credit On Balance Sheet Exposure Weighted Average Firm Size Amount
+
+## identifier
+de7940
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the exposure weighted average firm size of on-balance sheet credit exposures.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+
+Weighted average firm size = SIGMAi Salesi x EADi / SIGMAi EADi
+
+Where:
+Salesi = the level of annual sales associated with the ith exposure.
+EADi = the exposure at default(EAD) associated with the ith exposure.
+

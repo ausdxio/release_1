@@ -1,0 +1,16 @@
+# Financial Risk Credit Credit Exposures Non Accrual Without Provisions Income Forgone Amount
+
+## identifier
+de7768
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the amount of any income forgone during the relevant period from all exposures of the reporting party that give rise to counterparty credit risk, determined in accordance with the relevant prudential standards, where the estimates of future interest income are zero and no specific provision for impairment has been raised in respect of it.
+
+Income forgone is the difference between what the reporting party would have received had the exposure performed as expected and that income actually received.
+

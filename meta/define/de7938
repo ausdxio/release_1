@@ -1,0 +1,24 @@
+# Financial Risk Credit On Balance Sheet Exposures Weighted Average LGD Percent
+
+## identifier
+de7938
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the exposure weighted average loss given default (LGD) for on-balance sheet credit exposures.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+
+Weighted average LGD = SIGMAi LGDi x EADi / SIGMAi EADi
+
+Where:
+LGDi = the LGD associated with the ith exposure in the group.
+EADi = the EAD associated with the ith exposure in the group.
+
+Loss given default (LGD) represents an entities economic loss upon the default of an obligor.
+

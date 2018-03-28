@@ -1,0 +1,7 @@
+model with spaces
+
+Thing
+ part:Part
+
+Part
+ bit

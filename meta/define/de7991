@@ -1,0 +1,21 @@
+# Liabilities Exposures HQLA Liability Base Amount
+
+## identifier
+de7991
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of the High Quality Liquid Assets (HQLA) Liability Base determined in accordance with prudential standards.
+     
+This is calculated as the Total Liabilities plus Shareholders Equity as determined in accordance with accounting standards; less the Eligible Capital Base.
+     
+The Eligible Capital Base is comprised of the Total Capital Base as determined in accordance with prudential standards; less the value of Adjusted HQLA Placements.
+     
+Adjusted HQLA Placements are calculated as follows:     
+If the total deposits placed with the reporting party by other Approved Deposit-taking Institutions (ADIs) exceed the amount of total deposits the reporting party has placed with ADIs, then this amount is the total deposits the reporting party has placed with other ADIs (i.e. deposit assets), otherwise it is the total deposits placed with the reporting party (i.e. deposit liabilities) by other ADIs.
+

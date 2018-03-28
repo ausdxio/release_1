@@ -1,0 +1,26 @@
+# Financial Risk Capital Adequacy General Reserves Amount
+
+## identifier
+de7669
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of General Reserves, as determined in accordance with Prudential Standard APS 111.
+
+General reserves are created from the appropriation of profits by an entity (or the group of entities) after the payment of all dividends and tax. These may include:
+
+     (a) reserves representing the offset to a charge to profit and loss of the entity arising from equity-settled share-based payments (i.e. shares and/or share options) granted to employees as part of their remuneration package (including any shares or share options granted to employees by way of bonus arrangements associated with their employment, and shares or share options granted to employees of an acquired institution in return for continued services). This is provided that:
+          (i) the shares or share options granted relate only to the ordinary shares of the entity itself; and
+          (ii) there are no circumstances in which such remuneration (including bonuses) can be realised, in part or full, other than by way of the issue of ordinary shares of the entity i.e. there is no right for remuneration to be converted to a payment in another form (e.g. cash).
+
+All other reserves associated with share-based payments (refer to Australian accounting standard AASB 2 Share-based Payment) must be excluded from this item; and
+
+     (b) cumulative unrealised gains or losses on hedges that offset gains or losses on reserves included in Tier 1 capital (e.g. movements in the currency value of foreign-currency-denominated hedging instruments which offset movements in foreign-currency-denominated items recognised in the foreign currency translation reserve). This includes fair value gains or losses on derivatives representing effective economic hedges of assets.
+
+Exclude General Reserves for Credit Losses from this item.
+

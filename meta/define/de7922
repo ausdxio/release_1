@@ -1,0 +1,31 @@
+# Financial Risk Credit Off Balance Sheet Market Related Contracts Other ARF 112 2A Amount
+
+## identifier
+de7922
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other market-related off-balance sheet contracts (including credit derivatives), as required on form ARF_112_2A.
+
+This item is reported for capital adequacy purposes and is to be determined in accordance with the relevant prudential standards. The reporting party may net claims and obligations with a counterparty that are covered by a legally binding eligible bilateral netting agreement. 
+
+This balancing item represents the value of total market-related off-balance sheet contracts (including credit derivatives) less those contracts which are classed as any of the following:
+- Interest rate contracts;
+- Foreign exchange contracts;
+- Equity contracts; or
+- Precious metal, Gold and other commodity contracts.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity.
+

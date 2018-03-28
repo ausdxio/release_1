@@ -1,0 +1,21 @@
+# Liabilities Other Financial Liabilities Provisions Other BS ARF322 Amount
+
+## identifier
+de7604
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of total provisions excluding those classified as any of the following:
+- provision for dividends;
+- provision for employee entitlements;
+- provision for non lending losses; 
+- provision for mortgage insurance claims and unearned revenue; and
+- provision for restructuring costs.
+

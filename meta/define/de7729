@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Upper Tier 2 Gross Amount
+
+## identifier
+de7729
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of gross Upper Tier 2 capital.
+
+Gross Upper Tier 2 capital represents all Upper Tier 2 capital before other adjustments approved by APRA and any Upper Tier 2 capital deductions.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

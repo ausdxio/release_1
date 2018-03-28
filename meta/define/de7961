@@ -1,0 +1,22 @@
+# Financial Risk Credit Equity Exposures Amount
+
+## identifier
+de7961
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity exposures.
+
+Equity exposures are defined according to the economic substance of the instrument. This includes both direct and indirect ownership interests, whether voting or non-voting, in the assets and income of a commercial enterprise or financial institutions, and holdings of units in unit trusts.
+
+Exclude equity securities:
+- which are deducted from capital for capital adequacy purposes; and 
+- held in the reporting party's trading book, with the exception of those exposures that give rise to counterparty credit risk.
+
+Short positions held in the banking book are permitted to offset long positions in the same individual equities provided that these instruments have been explicitly designated as hedges of specific equity holdings and that they have remaining maturities of at least one year.
+

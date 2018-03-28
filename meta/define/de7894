@@ -1,0 +1,18 @@
+# Financial Risk Market Options Equity Purchased Positions Amount
+
+## identifier
+de7894
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity options the entity has purchased, as determined in accordance with relevant prudential standards.
+
+A bought option includes both put and call options that have been purchased by an entity. It provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+An equity contract is any contract that at least partly transfers the equity risk of an underlying equity security from one party to another.
+

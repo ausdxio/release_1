@@ -1,0 +1,31 @@
+# Financial Risk Credit Claims On Private Sector Entities Excluding Equity Amount
+
+## identifier
+de7874
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claims (other than equity) on private sector entities. This excludes claims on ADIs, overseas banks and corporate counterparties.
+
+Authorised Deposit-taking Institutions (ADIs) have an authority under subsection 9(3) of the Banking Act 1959 to carry on banking business in Australia. ADIs include: 
+(a) Australian-owned banks; 
+(b) foreign subsidiary banks; 
+(c) branches of foreign banks; 
+(d) credit unions, credit societies and credit co-operatives; 
+(e) building societies; 
+(f) Specialist Credit Card Institutions (SCCIs); 
+(g) providers of purchased payment facilities; and 
+(h) other ADIs. 
+
+Note: ADIs do not include merchant banks in Australia. 
+
+An Overseas Bank represents a financial institution in another country (i.e. not Australia) that:
+(a) has the power to accept deposits in the regular course of business; 
+(b) is supervised by the supervisor of banks or by state-based regulatory agencies; and 
+(c) is subject to the same prudential requirements as banks (including capital adequacy).
+

@@ -1,0 +1,22 @@
+# Assets Balancing Item Household Loans Advances Impairment Amount
+
+## identifier
+de7815
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of revisions for impairment in relation to Loans and Advances being financial assets as determined in accordance with accounting standards, other than:
+- Trade Receivables;
+- Cash;
+- Revolving Credit;
+- Credit Cards;
+- Loans for Housing; and
+- Lease financing
+

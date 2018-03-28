@@ -1,0 +1,22 @@
+# Financial Risk Credit On Balance Sheet Exposures Weighted Average Maturity Number
+
+## identifier
+de7939
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report in years, calculated as at the relevant date, the exposure weighted average effective maturity (M) for on-balance sheet credit exposures.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+
+Weighted average maturity = SIGMAi Mi x EADi / SIGMAi EADi
+
+Where:
+Mi = the maturity associated with the ith exposure in the group.
+EADi = the EAD associated with the ith exposure in the group.
+

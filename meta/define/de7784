@@ -1,0 +1,16 @@
+# Financial Risk Credit Prescribed Provision Category Two Percent
+
+## identifier
+de7784
+
+## status
+Standard
+
+## type
+float
+
+## definition
+The percentage to be applied to the outstanding balance, or other relevant amount, as prescribed in the prudential standards for calculating the prescribed provision for Category Two facilities of the reporting party as at the relevant date..
+
+Category Two facilities are any exposure that is secured by a registered first mortgage against a residential property, where the ratio of the outstanding balance, less the amount of mortgage insurance, to the valuation of the security is greater than 80 per cent but no more than 100 per cent (where the loan is 6 months or more worth of payments past due, the valuation must be no older than 12 months).
+

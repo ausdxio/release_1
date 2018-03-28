@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Tier 1 Gross Amount
+
+## identifier
+de7677
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of Gross Tier 1 capital. This item is reported for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+Gross Tier 1 capital represents the sum of Fundamental Tier 1 capital and Residual Tier 1 capital, gross of Tier 1 capital deductions.
+

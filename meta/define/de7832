@@ -1,0 +1,14 @@
+# Assets Cash And Liquid Assets Bills CD NCD Amount
+
+## identifier
+de7832
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of all bills of exchange and certificates of deposit (both negotiable/transferrable and not) held by the reporting party as at the relevant date.
+

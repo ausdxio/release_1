@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Tier 1 Adjustments APRA Approved Other Amount
+
+## identifier
+de7717
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of any other adjustments to Tier 1 capital as approved by APRA. This includes both reductions in deductions and additions to Tier 1 capital as well as transition amounts affecting Tier 1 capital.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

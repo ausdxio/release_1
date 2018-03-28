@@ -1,0 +1,31 @@
+# Assets Derivative Financial Instruments Other Written Options Amount
+
+## identifier
+de7900
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other written (sold) option derivative contracts, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards.
+
+This balancing item represents total written (sold) option derivative contracts less those contracts which are classed as any of the following:
+- Interest rate contracts;
+- Foreign exchange contracts;
+- Gold contracts; or
+- Equity contracts.
+
+A written, or sold, option includes both put and call options that have been sold by an entity. It provides the selling entity with the obligation to buy or sell a specific amount of an underlying asset at a pre-agreed price, on or before a specific future date.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity.
+

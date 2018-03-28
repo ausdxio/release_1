@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Tier 1 Specific Deductions Other ARF 110 0 1 And ARF 110 0 2 Amount
+
+## identifier
+de7706
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of any other Tier 1 specific capital deductions, as required to be reported on APRA forms ARF_110_0_1 and ARF_110_0_2. 
+
+This item is reported as a deduction to Tier 1 capital for capital adequacy purposes and is to be determined in accordance with relevant Prudential.
+

@@ -1,0 +1,18 @@
+# Liabilities Deposits ARF210 Excess Amount
+
+## identifier
+de7840
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the amount by which the value of Deposit Liabilities exceeds the net value of Deposit Assets. If the Deposit Liabilities do not exceed the Deposit Assets then report zero.
+
+Deposit Liabilities are deposits held by the reporting party as at the relevant date, and which are capable of being redeemed or withdrawn by depositors from the reporting party within 2 business days, with or without penalty.
+
+Deposit Assets are the deposits at the relevant date redeemable or withdrawable by the reporting party on demand or within 2 business days. The net value is determined by reducing the deposit amount by any break costs or early withdrawal penalties that would be applied for redeeming the deposit within 2 business days.
+

@@ -1,0 +1,18 @@
+# Liabilities Deposits Offset Against Term Loans Amount
+
+## identifier
+de7634
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the balance in deposit accounts that are offset against the balance of outstanding term loans held by the reporting party as at the relevant date.
+
+An offset account is typically a deposit account in which the balance is either wholly or partly offset against the loan balance for the purposes of calculating interest.
+
+Where the account is an all-in-one facility (that is, where the loan and deposits are effectively combined in a single account) and it is not possible to separate the loan balance form the borrower's deposits, report zero for those accounts.
+

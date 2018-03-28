@@ -1,0 +1,24 @@
+# Financial Risk Credit Off Balance Sheet Exposures Weighted Average Maturity Number
+
+## identifier
+de7943
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report in years, as at the relevant date, the exposure weighted average effective maturity (M) of off-balance sheet credit exposures.
+
+This item is reported for capital adequacy purposes and is to be in accordance with relevant prudential standards.
+
+Weighted average maturity = SIGMAi Mi x EADi / SIGMAi EADi
+
+Where:
+Mi = the maturity associated with the ith exposure in the group.
+EADi = the EAD associated with the ith exposure in the group.
+
+A credit exposure represents an asset, liability, claim or commitment of an entity, which may be recorded on or off the balance sheet and which gives rise to credit risk.
+

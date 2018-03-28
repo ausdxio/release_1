@@ -1,0 +1,14 @@
+# Income Fees Commissions Broking Amount
+
+## identifier
+de7522
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Record any fee income or commission associated with the broking activities of the reporting party.
+

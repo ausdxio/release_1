@@ -1,0 +1,14 @@
+# Liabilities Provisions Decreases Bad Debt Write Off Amount
+
+## identifier
+de7696
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of all decreases in provisions for impairment of loans and advances that were used to fund the write-off of facilities deemed to be bad debts during the relevant period.
+

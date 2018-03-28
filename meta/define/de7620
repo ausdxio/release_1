@@ -1,0 +1,18 @@
+# Assets Debt Securities Bills Of Exchange Non ADI Endorsed Amount
+
+## identifier
+de7620
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of Bills of Exchange held by the reporting party as at the relevant date that have been accepted by parties other than an Approved Deposit-taking Institution  and endorsed as the first endorser by the reporting party.
+
+A bill of exchange is an unconditional order drawn (issued) by one party, sent to another party (usually a bank) for acceptance and made out to, or to the order of, a third party, or to bearer.
+
+Endorsement of a bill of exchange creates a contingent liability by the endorser to pay out the funds conditional on the bearer/holder demanding payment.
+

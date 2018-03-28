@@ -1,0 +1,24 @@
+# Financial Risk Capital Adequacy Guarantees And Credit Derivatives That Provide Materiality Threshold Fifty Per Cent Amount
+
+## identifier
+de7708
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of guarantees and credit derivatives that provide for a materiality threshold and where the is an equivalent to retained first loss positions.
+
+Equivalents to retained first loss positions arise:
+     (a) where credit protection provides for a materiality threshold on payments below which no payment will be made in the event of loss.; and
+     (b) in the context of securitisation, where there is partial coverage of an underlying exposure by a credit derivative, there is a difference in seniority between protected and unprotected tranches, and the credit derivative contract contains a materiality threshold.
+
+This amount is capped at the amount of capital the reporting party would be required to hold against the full value of the exposure or underlying expose, as appropriate.
+
+This item represents a 50/50 capital adequacy deduction, therefore only report 50 per cent of the asset amount at this item. This amount is to be deducted from both Tier 1 and Tier 2 capital.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

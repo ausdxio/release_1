@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy General Reserve For Credit Losses Net Deferred Tax Assets Standardised Approach Amount
+
+## identifier
+de7724
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of General Reserve for Credit Losses (GRCL), net of tax, determined using the standardised approach to credit risk. Any deferred tax assets (DTA) associated with the collective provisions eligible to be included in the GRCL must be removed.
+
+The amount reported at this item must be limited to 1.25% of Risk Weighted Assets.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+

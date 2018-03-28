@@ -1,0 +1,18 @@
+# Assets Loans And Receivables Term Offset Amount
+
+## identifier
+de7633
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the balance outstanding of term loans held by the reporting party as at the relevant date, with an offset account attached to them. This balance is gross of offset deposit accounts.
+
+An offset account is typically a deposit account in which the balance is either wholly or party offset against the loan balance for the purposes of calculating interest.
+
+Where the account is an all-in-one facility (that is, where the loan and deposits are effectively combined in a single account) and it is not possible to separate the loan balance form the borrower's deposits, report the net balance of the account.
+

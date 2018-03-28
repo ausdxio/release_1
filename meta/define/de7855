@@ -1,0 +1,16 @@
+# Financial Risk Credit Claims Secured Against Eligible Residential Mortgages Amount
+
+## identifier
+de7855
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of loans and all other on-balance sheet claims secured against eligible residential mortgages.
+
+For the purposes of this item, the repayment of funds advanced must have been secured through an eligible residential mortgage to satisfy the debt in the case of default by the borrower, as determined in accordance with relevant prudential standards.
+

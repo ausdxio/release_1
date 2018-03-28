@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Deductions Fifty Percent Amount
+
+## identifier
+de7715
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all capital adequacy deductions that are required to be made 50 per cent from Tier 1 capital and 50 per cent from Tier 2 capital (i.e. 50/50 capital adequacy deductions). For the purposes of this item only report 50 per cent of the amount of the full deduction.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
