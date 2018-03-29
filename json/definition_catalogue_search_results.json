@@ -8,8 +8,7 @@
       "identifier": "foo",
       "usage": [
         "foo"
-      ],
-      "": "foo"
+      ]
     }
   ],
   "numberOfElements": 42,
@@ -18,11 +17,9 @@
   "totalPages": 42,
   "id": {
     "rel": "foo",
-    "href": "foo",
-    "": "foo"
+    "href": "foo"
   },
   "links": [
     "bar"
-  ],
-  "": "foo"
+  ]
 }

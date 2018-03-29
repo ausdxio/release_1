@@ -9,7 +9,6 @@
       <usages>
         <usage>foo</usage>
       </usages>
-      <>foo</>
     </content>
   </contents>
   <numberOfElements>42</numberOfElements>
@@ -19,10 +18,8 @@
   <id>
     <rel>foo</rel>
     <href>foo</href>
-    <>foo</>
   </id>
   <linkses>
     <links>bar</links>
   </linkses>
-  <>foo</>
 </Results>

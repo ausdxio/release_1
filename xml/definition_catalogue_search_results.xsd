@@ -21,7 +21,6 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element name="" type="xs:string"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -39,14 +38,12 @@
           </xs:sequence>
         </xs:complexType>
       </xs:element>
-      <xs:element name="" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
   <xs:complexType name="Link">
     <xs:sequence>
       <xs:element name="rel" type="xs:string"/>
       <xs:element name="href" type="xs:string"/>
-      <xs:element name="" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 </xs:schema>
