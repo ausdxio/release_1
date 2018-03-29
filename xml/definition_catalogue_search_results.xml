@@ -1,0 +1,28 @@
+<Results>
+  <contents>
+    <content>
+      <name>foo</name>
+      <domain>foo</domain>
+      <definition>foo</definition>
+      <guidance>foo</guidance>
+      <identifier>foo</identifier>
+      <usages>
+        <usage>foo</usage>
+      </usages>
+      <>foo</>
+    </content>
+  </contents>
+  <numberOfElements>42</numberOfElements>
+  <firstPage>true</firstPage>
+  <lastPage>true</lastPage>
+  <totalPages>42</totalPages>
+  <id>
+    <rel>foo</rel>
+    <href>foo</href>
+    <>foo</>
+  </id>
+  <linkses>
+    <links>bar</links>
+  </linkses>
+  <>foo</>
+</Results>
