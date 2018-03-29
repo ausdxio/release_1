@@ -1,0 +1,32 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TwilloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SMSMessage" type="SMSMessage"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="SMSMessage">
+    <xs:sequence>
+      <xs:element name="Sid" type="xs:string"/>
+      <xs:element name="DateCreated" type="xs:string"/>
+      <xs:element name="DateUpdated" type="xs:string"/>
+      <xs:element name="DateSent" type="xs:string"/>
+      <xs:element name="AccountSid" type="xs:string"/>
+      <xs:element name="To" type="xs:string"/>
+      <xs:element name="From" type="xs:string"/>
+      <xs:element name="Body" type="xs:string"/>
+      <xs:element name="Status" type="xs:string"/>
+      <xs:element name="Flags">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Flag" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ApiVersion" type="xs:string"/>
+      <xs:element name="Price" type="xs:float"/>
+      <xs:element name="Uri" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
