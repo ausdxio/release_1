@@ -1,29 +1,29 @@
-<Request>
-    <sender>foo</sender>
-    <requestor>foo</requestor>
-    <abn>foo</abn>
-    <action>foo</action>
-    <person>
-        <tfn>foo</tfn>
-        <dayOfBirth>foo</dayOfBirth>
-        <monthOfBirth>foo</monthOfBirth>
-        <yearOfBirth>foo</yearOfBirth>
-        <surname>foo</surname>
-        <givenName>foo</givenName>
-        <middleName>foo</middleName>
-    </person>
-    <address>
-        <line1>foo</line1>
-        <line2>foo</line2>
-        <suburb>foo</suburb>
-        <postcode>foo</postcode>
-        <state>foo</state>
-        <country>foo</country>
-    </address>
-    <account>
-        <accountNumber>foo</accountNumber>
-        <accountStatus>foo</accountStatus>
-        <accountStatusDate>foo</accountStatusDate>
-        <usi>foo</usi>
-    </account>
-</Request>
+{
+  "sender": "foo",
+  "requestor": "foo",
+  "abn": "foo",
+  "action": "foo",
+  "person": {
+    "tfn": "foo",
+    "dayOfBirth": "foo",
+    "monthOfBirth": "foo",
+    "yearOfBirth": "foo",
+    "surname": "foo",
+    "givenName": "foo",
+    "middleName": "foo"
+  },
+  "address": {
+    "line1": "foo",
+    "line2": "foo",
+    "suburb": "foo",
+    "postcode": "foo",
+    "state": "foo",
+    "country": "foo"
+  },
+  "account": {
+    "accountNumber": "foo",
+    "accountStatus": "foo",
+    "accountStatusDate": "foo",
+    "usi": "foo"
+  }
+}
