@@ -1,0 +1,9 @@
+super_dashboard_status
+
+Result
+ preview:boolean
+ init_offset:int
+ post_process_count:int
+ message:string[]
+ field:string[]
+ row:string[]

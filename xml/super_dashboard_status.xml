@@ -1,0 +1,14 @@
+<Result>
+  <preview>true</preview>
+  <init_offset>42</init_offset>
+  <post_process_count>42</post_process_count>
+  <messages>
+    <message>foo</message>
+  </messages>
+  <fields>
+    <field>foo</field>
+  </fields>
+  <rows>
+    <row>foo</row>
+  </rows>
+</Result>
