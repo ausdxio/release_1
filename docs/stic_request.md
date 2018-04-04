@@ -59,7 +59,7 @@ Information describing the reason for an interaction as required by the receivin
 
 
 
-#### responseCode ([ResponseCode](https://ausdx-lab.herokuapp.com/define/de007.json)): int
+#### responseCode ([ResponseCode](https://ausdx-lab.herokuapp.com/define/de007)): int
 
 The HTTP response code for this request.
 For more information, see [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
