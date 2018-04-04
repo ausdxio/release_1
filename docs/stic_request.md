@@ -58,11 +58,11 @@ Information describing the reason for an interaction as required by the receivin
 
 
 
-#### person: [Person](#stic_request-person) + 
+#### person: [Person](#person)
 
-#### address: [Address](#stic_request-address) + 
+#### address: [Address](#address)
 
-#### account: [Account](#stic_request-account) + 
+#### account: [Account](#account)
 
 
 ## Account

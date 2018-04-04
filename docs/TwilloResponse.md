@@ -24,7 +24,7 @@
 
 ## TwilloResponse
 
-#### SMSMessage: [SMSMessage](#twilloresponse-smsmessage) + 
+#### SMSMessage: [SMSMessage](#smsmessage)
 
 
 ## SMSMessage

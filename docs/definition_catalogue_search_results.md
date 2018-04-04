@@ -30,7 +30,7 @@
 
 ## Results
 
-#### content: [Definition](#definition_catalogue_search_results-content) + []
+#### content: [Definition](#content)[]
 
 #### numberOfElements: int
 
@@ -40,7 +40,7 @@
 
 #### totalPages: int
 
-#### id: [Link](#definition_catalogue_search_results-id) + 
+#### id: [Link](#id)
 
 #### links: link[]
 
