@@ -19,7 +19,8 @@
     "Price": 3.14,
     "Uri": "foo"
   }
-}```
+}
+```
 
 ## TwilloResponse
 
