@@ -6,6 +6,7 @@
   "requestor": "foo",
   "abn": "foo",
   "action": "foo",
+  "responseCode": 42,
   "person": {
     "tfn": "foo",
     "dayOfBirth": "foo",
@@ -55,6 +56,23 @@ A unique public identifier issued to all entities registered in the Australian B
 #### action ([Interaction Reason Text](https://definitions.ausdx.io/definition/trc/de13082)): string
 
 Information describing the reason for an interaction as required by the receiving agency.
+
+
+
+#### responseCode ([ResponseCode](https://ausdx-lab.herokuapp.com/define/de007.json)): int
+
+The HTTP response code for this request.
+For more information, see [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+
+
+
+Check the wikipedia article for specific meanings of each code, but in general:
+
+- 1xx are Informational responses
+-	2xx are Success
+-	3xx are Redirection
+-	4xx are Client errors
+-	5xx are Server errors
 
 
 

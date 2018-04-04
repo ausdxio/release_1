@@ -3,6 +3,7 @@
   "requestor": "foo",
   "abn": "foo",
   "action": "foo",
+  "responseCode": 42,
   "person": {
     "tfn": "foo",
     "dayOfBirth": "foo",

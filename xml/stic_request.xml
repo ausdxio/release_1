@@ -3,6 +3,7 @@
   <requestor>foo</requestor>
   <abn>foo</abn>
   <action>foo</action>
+  <responseCode>42</responseCode>
   <person>
     <tfn>foo</tfn>
     <dayOfBirth>foo</dayOfBirth>

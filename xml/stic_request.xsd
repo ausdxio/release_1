@@ -6,6 +6,7 @@
         <xs:element name="requestor" type="xs:string"/>
         <xs:element name="abn" type="xs:string"/>
         <xs:element name="action" type="xs:string"/>
+        <xs:element name="responseCode" type="xs:int"/>
         <xs:element name="person" type="Person"/>
         <xs:element name="address" type="Address"/>
         <xs:element name="account" type="Account"/>

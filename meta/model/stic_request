@@ -5,6 +5,7 @@ Request
  requestor:(http://dxa.gov.au/definition/trc/de26)
  abn:(http://dxa.gov.au/definition/trc/de26)
  action:(http://dxa.gov.au/definition/trc/de13082)
+ responseCode:(https://ausdx-lab.herokuapp.com/define/de007)
  person:Person
  address:Address
  account:Account
