@@ -1,0 +1,21 @@
+<xsd:schema targetNamespace="http://ausdx.io" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xsd:element name="Result" id="Result" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Result_preview"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Result_init_offset"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Result_post_process_count"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Result_message"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Result_field"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Result_row"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Result_preview" id="Result_preview" type="xbrli:booleanItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Result_init_offset" id="Result_init_offset" type="xbrli:intItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Result_post_process_count" id="Result_post_process_count" type="xbrli:intItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Result_message" id="Result_message" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Result_field" id="Result_field" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Result_row" id="Result_row" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+</xsd:schema>

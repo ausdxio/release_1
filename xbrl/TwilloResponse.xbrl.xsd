@@ -1,0 +1,42 @@
+<xsd:schema targetNamespace="http://ausdx.io" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xsd:element name="TwilloResponse" id="TwilloResponse" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:TwilloResponse_SMSMessage"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="SMSMessage" id="SMSMessage" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Sid"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_DateCreated"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_DateUpdated"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_DateSent"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_AccountSid"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_To"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_From"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Body"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Status"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:SMSMessage_Flag"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_ApiVersion"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Price"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Uri"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="SMSMessage_Sid" id="SMSMessage_Sid" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_DateCreated" id="SMSMessage_DateCreated" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_DateUpdated" id="SMSMessage_DateUpdated" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_DateSent" id="SMSMessage_DateSent" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_AccountSid" id="SMSMessage_AccountSid" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_To" id="SMSMessage_To" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_From" id="SMSMessage_From" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_Body" id="SMSMessage_Body" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_Status" id="SMSMessage_Status" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_Flag" id="SMSMessage_Flag" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_ApiVersion" id="SMSMessage_ApiVersion" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_Price" id="SMSMessage_Price" type="xbrli:floatItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="SMSMessage_Uri" id="SMSMessage_Uri" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+</xsd:schema>

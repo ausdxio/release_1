@@ -1,0 +1,49 @@
+<xsd:schema targetNamespace="http://ausdx.io" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xsd:element name="Results" id="Results" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Results_Definition"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Results_numberOfElements"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Results_firstPage"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Results_lastPage"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Results_totalPages"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Results_Link"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Results_links"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Results_numberOfElements" id="Results_numberOfElements" type="xbrli:intItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Results_firstPage" id="Results_firstPage" type="xbrli:booleanItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Results_lastPage" id="Results_lastPage" type="xbrli:booleanItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Results_totalPages" id="Results_totalPages" type="xbrli:intItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Results_links" id="Results_links" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition" id="Definition" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Definition_name"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Definition_domain"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Definition_definition"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Definition_guidance"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Definition_identifier"/>
+        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="tns:Definition_usage"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Definition_name" id="Definition_name" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition_domain" id="Definition_domain" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition_definition" id="Definition_definition" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition_guidance" id="Definition_guidance" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition_identifier" id="Definition_identifier" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Definition_usage" id="Definition_usage" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Link" id="Link" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Link_rel"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Link_href"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Link_rel" id="Link_rel" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Link_href" id="Link_href" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+</xsd:schema>
