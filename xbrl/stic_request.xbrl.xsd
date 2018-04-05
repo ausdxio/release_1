@@ -8,9 +8,9 @@
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_abn"/>
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_action"/>
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_responseCode"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_Person"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_Address"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_Account"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_person"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_address"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Request_account"/>
       </xsd:sequence>
     </xsd:complexType>
   </xsd:element>
@@ -19,21 +19,7 @@
   <xsd:element name="Request_abn" id="Request_abn" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Request_action" id="Request_action" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Request_responseCode" id="Request_responseCode" type="xbrli:intItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Account" id="Account" substitutionGroup="xbrli:tuple">
-    <xsd:complexType>
-      <xsd:sequence>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountNumber"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountStatus"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountStatusDate"/>
-        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_usi"/>
-      </xsd:sequence>
-    </xsd:complexType>
-  </xsd:element>
-  <xsd:element name="Account_accountNumber" id="Account_accountNumber" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Account_accountStatus" id="Account_accountStatus" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Account_accountStatusDate" id="Account_accountStatusDate" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Account_usi" id="Account_usi" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Person" id="Person" substitutionGroup="xbrli:tuple">
+  <xsd:element name="Request_person" id="Request_person" substitutionGroup="xbrli:tuple">
     <xsd:complexType>
       <xsd:sequence>
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Person_tfn"/>
@@ -53,7 +39,7 @@
   <xsd:element name="Person_surname" id="Person_surname" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Person_givenName" id="Person_givenName" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Person_middleName" id="Person_middleName" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
-  <xsd:element name="Address" id="Address" substitutionGroup="xbrli:tuple">
+  <xsd:element name="Request_address" id="Request_address" substitutionGroup="xbrli:tuple">
     <xsd:complexType>
       <xsd:sequence>
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Address_line1"/>
@@ -71,4 +57,18 @@
   <xsd:element name="Address_postcode" id="Address_postcode" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Address_state" id="Address_state" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
   <xsd:element name="Address_country" id="Address_country" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Request_account" id="Request_account" substitutionGroup="xbrli:tuple">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountNumber"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountStatus"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_accountStatusDate"/>
+        <xsd:element minOccurs="0" maxOccurs="1" ref="tns:Account_usi"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Account_accountNumber" id="Account_accountNumber" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Account_accountStatus" id="Account_accountStatus" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Account_accountStatusDate" id="Account_accountStatusDate" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
+  <xsd:element name="Account_usi" id="Account_usi" type="xbrli:stringItemType" substitutionGroup="xbrli:item" nillable="true" xbrli:periodType="instant"/>
 </xsd:schema>

@@ -1,0 +1,44 @@
+<xbrli:xbrl xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:schemaRef xlink:type="simple" xlink:href="taxonomy.xbrl.xsd"/>
+  <xbrli:context id="c0001">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://abr.gov.au/abn">0123456789</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>1970-01-01</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id="u0001">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <tns:Request>
+    <tns:Request_sender contextRef="c0001">foo</tns:Request_sender>
+    <tns:Request_requestor contextRef="c0001">foo</tns:Request_requestor>
+    <tns:Request_abn contextRef="c0001">foo</tns:Request_abn>
+    <tns:Request_action contextRef="c0001">foo</tns:Request_action>
+    <tns:Request_responseCode decimals="0" contextRef="c0001" unitRef="u0001">42</tns:Request_responseCode>
+    <tns:Request_person>
+      <tns:Person_tfn contextRef="c0001">foo</tns:Person_tfn>
+      <tns:Person_dayOfBirth contextRef="c0001">foo</tns:Person_dayOfBirth>
+      <tns:Person_monthOfBirth contextRef="c0001">foo</tns:Person_monthOfBirth>
+      <tns:Person_yearOfBirth contextRef="c0001">foo</tns:Person_yearOfBirth>
+      <tns:Person_surname contextRef="c0001">foo</tns:Person_surname>
+      <tns:Person_givenName contextRef="c0001">foo</tns:Person_givenName>
+      <tns:Person_middleName contextRef="c0001">foo</tns:Person_middleName>
+    </tns:Request_person>
+    <tns:Request_address>
+      <tns:Address_line1 contextRef="c0001">foo</tns:Address_line1>
+      <tns:Address_line2 contextRef="c0001">foo</tns:Address_line2>
+      <tns:Address_suburb contextRef="c0001">foo</tns:Address_suburb>
+      <tns:Address_postcode contextRef="c0001">foo</tns:Address_postcode>
+      <tns:Address_state contextRef="c0001">foo</tns:Address_state>
+      <tns:Address_country contextRef="c0001">foo</tns:Address_country>
+    </tns:Request_address>
+    <tns:Request_account>
+      <tns:Account_accountNumber contextRef="c0001">foo</tns:Account_accountNumber>
+      <tns:Account_accountStatus contextRef="c0001">foo</tns:Account_accountStatus>
+      <tns:Account_accountStatusDate contextRef="c0001">foo</tns:Account_accountStatusDate>
+      <tns:Account_usi contextRef="c0001">foo</tns:Account_usi>
+    </tns:Request_account>
+  </tns:Request>
+</xbrli:xbrl>

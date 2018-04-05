@@ -7,7 +7,7 @@
       </xsd:sequence>
     </xsd:complexType>
   </xsd:element>
-  <xsd:element name="SMSMessage" id="SMSMessage" substitutionGroup="xbrli:tuple">
+  <xsd:element name="TwilloResponse_SMSMessage" id="TwilloResponse_SMSMessage" substitutionGroup="xbrli:tuple">
     <xsd:complexType>
       <xsd:sequence>
         <xsd:element minOccurs="0" maxOccurs="1" ref="tns:SMSMessage_Sid"/>

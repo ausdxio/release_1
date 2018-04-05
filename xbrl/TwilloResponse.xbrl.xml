@@ -1,0 +1,32 @@
+<xbrli:xbrl xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:schemaRef xlink:type="simple" xlink:href="taxonomy.xbrl.xsd"/>
+  <xbrli:context id="c0001">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://abr.gov.au/abn">0123456789</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>1970-01-01</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id="u0001">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <tns:TwilloResponse>
+    <tns:TwilloResponse_SMSMessage>
+      <tns:SMSMessage_Sid contextRef="c0001">foo</tns:SMSMessage_Sid>
+      <tns:SMSMessage_DateCreated contextRef="c0001">foo</tns:SMSMessage_DateCreated>
+      <tns:SMSMessage_DateUpdated contextRef="c0001">foo</tns:SMSMessage_DateUpdated>
+      <tns:SMSMessage_DateSent contextRef="c0001">foo</tns:SMSMessage_DateSent>
+      <tns:SMSMessage_AccountSid contextRef="c0001">foo</tns:SMSMessage_AccountSid>
+      <tns:SMSMessage_To contextRef="c0001">foo</tns:SMSMessage_To>
+      <tns:SMSMessage_From contextRef="c0001">foo</tns:SMSMessage_From>
+      <tns:SMSMessage_Body contextRef="c0001">foo</tns:SMSMessage_Body>
+      <tns:SMSMessage_Status contextRef="c0001">foo</tns:SMSMessage_Status>
+      <tns:SMSMessage_Flag contextRef="c0001">foo</tns:SMSMessage_Flag>
+      <tns:SMSMessage_Flag contextRef="c0001">foo</tns:SMSMessage_Flag>
+      <tns:SMSMessage_ApiVersion contextRef="c0001">foo</tns:SMSMessage_ApiVersion>
+      <tns:SMSMessage_Price decimals="0" contextRef="c0001" unitRef="u0001">3.14</tns:SMSMessage_Price>
+      <tns:SMSMessage_Uri contextRef="c0001">foo</tns:SMSMessage_Uri>
+    </tns:TwilloResponse_SMSMessage>
+  </tns:TwilloResponse>
+</xbrli:xbrl>

@@ -1,0 +1,44 @@
+<xbrli:xbrl xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:schemaRef xlink:type="simple" xlink:href="taxonomy.xbrl.xsd"/>
+  <xbrli:context id="c0001">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://abr.gov.au/abn">0123456789</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>1970-01-01</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:unit id="u0001">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <tns:Results>
+    <tns:Results_content>
+      <tns:Definition_name contextRef="c0001">foo</tns:Definition_name>
+      <tns:Definition_domain contextRef="c0001">foo</tns:Definition_domain>
+      <tns:Definition_definition contextRef="c0001">foo</tns:Definition_definition>
+      <tns:Definition_guidance contextRef="c0001">foo</tns:Definition_guidance>
+      <tns:Definition_identifier contextRef="c0001">foo</tns:Definition_identifier>
+      <tns:Definition_usage contextRef="c0001">foo</tns:Definition_usage>
+      <tns:Definition_usage contextRef="c0001">foo</tns:Definition_usage>
+    </tns:Results_content>
+    <tns:Results_content>
+      <tns:Definition_name contextRef="c0001">foo</tns:Definition_name>
+      <tns:Definition_domain contextRef="c0001">foo</tns:Definition_domain>
+      <tns:Definition_definition contextRef="c0001">foo</tns:Definition_definition>
+      <tns:Definition_guidance contextRef="c0001">foo</tns:Definition_guidance>
+      <tns:Definition_identifier contextRef="c0001">foo</tns:Definition_identifier>
+      <tns:Definition_usage contextRef="c0001">foo</tns:Definition_usage>
+      <tns:Definition_usage contextRef="c0001">foo</tns:Definition_usage>
+    </tns:Results_content>
+    <tns:Results_numberOfElements decimals="0" contextRef="c0001" unitRef="u0001">42</tns:Results_numberOfElements>
+    <tns:Results_firstPage contextRef="c0001">true</tns:Results_firstPage>
+    <tns:Results_lastPage contextRef="c0001">true</tns:Results_lastPage>
+    <tns:Results_totalPages decimals="0" contextRef="c0001" unitRef="u0001">42</tns:Results_totalPages>
+    <tns:Results_id>
+      <tns:Link_rel contextRef="c0001">foo</tns:Link_rel>
+      <tns:Link_href contextRef="c0001">foo</tns:Link_href>
+    </tns:Results_id>
+    <tns:Results_links contextRef="c0001">bar</tns:Results_links>
+    <tns:Results_links contextRef="c0001">bar</tns:Results_links>
+  </tns:Results>
+</xbrli:xbrl>
