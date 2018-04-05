@@ -1,5 +1,5 @@
 <xbrli:xbrl xmlns:tns="http://ausdx.io" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <link:schemaRef xlink:type="simple" xlink:href="taxonomy.xbrl.xsd"/>
+  <link:schemaRef xlink:type="simple" xlink:href="stic_request.xbrl.xsd"/>
   <xbrli:context id="c0001">
     <xbrli:entity>
       <xbrli:identifier scheme="http://abr.gov.au/abn">0123456789</xbrli:identifier>
