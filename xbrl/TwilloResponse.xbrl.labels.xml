@@ -47,4 +47,10 @@
     <link:label xlink:type="resource" xlink:label="lbl_SMSMessage_Uri" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_SMSMessage_Uri">Uri</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_Uri" xlink:to="lbl_SMSMessage_Uri"/>
   </link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#definition"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition"></link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#guidance"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance"></link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#comment"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment"></link:labelLink>
 </link:linkbase>

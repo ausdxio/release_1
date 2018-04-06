@@ -6,6 +6,18 @@
         <link:definition>label</link:definition>
         <link:usedOn>link:labelLink</link:usedOn>
       </link:roleType>
+      <link:roleType roleURI="http://ausdx.io/definition" id="definition">
+        <link:definition>definition</link:definition>
+        <link:usedOn>link:labelLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://ausdx.io/guidance" id="guidance">
+        <link:definition>guidance</link:definition>
+        <link:usedOn>link:labelLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://ausdx.io/comment" id="comment">
+        <link:definition>comment</link:definition>
+        <link:usedOn>link:labelLink</link:usedOn>
+      </link:roleType>
     </xsd:appinfo>
   </xsd:annotation>
   <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>

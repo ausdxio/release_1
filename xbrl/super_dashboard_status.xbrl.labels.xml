@@ -23,4 +23,10 @@
     <link:label xlink:type="resource" xlink:label="lbl_Result_row" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_row">row</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_row" xlink:to="lbl_Result_row"/>
   </link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="super_dashboard_status.xbrl.xsd#definition"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition"></link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="super_dashboard_status.xbrl.xsd#guidance"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance"></link:labelLink>
+  <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="super_dashboard_status.xbrl.xsd#comment"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment"></link:labelLink>
 </link:linkbase>
