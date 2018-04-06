@@ -1,27 +1,27 @@
 <link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance">
   <link:roleRef roleURI="http://ausdx.io/label" xlink:type="simple" xlink:href="super_dashboard_status.xbrl.xsd#label"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/label">
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result" xlink:label="loc_Result"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result">Result</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result" xlink:to="lbl_Result"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_preview" xlink:label="loc_Result_preview"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_preview" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_preview">preview</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_preview" xlink:to="lbl_Result_preview"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_init_offset" xlink:label="loc_Result_init_offset"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_init_offset" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_init_offset">init_offset</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_init_offset" xlink:to="lbl_Result_init_offset"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_post_process_count" xlink:label="loc_Result_post_process_count"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_post_process_count" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_post_process_count">post_process_count</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_post_process_count" xlink:to="lbl_Result_post_process_count"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_message" xlink:label="loc_Result_message"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_message" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_message">message</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_message" xlink:to="lbl_Result_message"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_field" xlink:label="loc_Result_field"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_field" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_field">field</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_field" xlink:to="lbl_Result_field"/>
-    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_row" xlink:label="loc_Result_row"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Result_row" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Result_row">row</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Result_row" xlink:to="lbl_Result_row"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result" xlink:label="loc_Result_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_label">Result</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_label" xlink:to="lbl__Result_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_preview" xlink:label="loc_Result_preview_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_preview_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_preview_label">preview</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_preview_label" xlink:to="lbl__Result_preview_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_init_offset" xlink:label="loc_Result_init_offset_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_init_offset_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_init_offset_label">init_offset</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_init_offset_label" xlink:to="lbl__Result_init_offset_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_post_process_count" xlink:label="loc_Result_post_process_count_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_post_process_count_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_post_process_count_label">post_process_count</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_post_process_count_label" xlink:to="lbl__Result_post_process_count_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_message" xlink:label="loc_Result_message_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_message_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_message_label">message</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_message_label" xlink:to="lbl__Result_message_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_field" xlink:label="loc_Result_field_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_field_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_field_label">field</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_field_label" xlink:to="lbl__Result_field_label"/>
+    <link:loc xlink:type="locator" xlink:href="super_dashboard_status.xbrl.xsd#Result_row" xlink:label="loc_Result_row_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl__Result_row_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Result_row_label">row</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Result_row_label" xlink:to="lbl__Result_row_label"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="super_dashboard_status.xbrl.xsd#definition"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition"></link:labelLink>
