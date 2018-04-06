@@ -1,0 +1,53 @@
+<link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance">
+  <link:roleRef roleURI="http://ausdx.io/label" xlink:type="simple" xlink:href="definition_catalogue_search_results.xbrl.xsd#label"/>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/label">
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results" xlink:label="loc_Results"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results">Results</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results" xlink:to="lbl_Results"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_content" xlink:label="loc_Results_content"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_content" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_content">content</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_content" xlink:to="lbl_Results_content"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_name" xlink:label="loc_Definition_name"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_name" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_name">name</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_name" xlink:to="lbl_Definition_name"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_domain" xlink:label="loc_Definition_domain"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_domain" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_domain">domain</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_domain" xlink:to="lbl_Definition_domain"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_definition" xlink:label="loc_Definition_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_definition">definition</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_definition" xlink:to="lbl_Definition_definition"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_guidance" xlink:label="loc_Definition_guidance"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_guidance">guidance</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_guidance" xlink:to="lbl_Definition_guidance"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_identifier" xlink:label="loc_Definition_identifier"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_identifier" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_identifier">identifier</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_identifier" xlink:to="lbl_Definition_identifier"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Definition_usage" xlink:label="loc_Definition_usage"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Definition_usage" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Definition_usage">usage</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Definition_usage" xlink:to="lbl_Definition_usage"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_numberOfElements" xlink:label="loc_Results_numberOfElements"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_numberOfElements" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_numberOfElements">numberOfElements</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_numberOfElements" xlink:to="lbl_Results_numberOfElements"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_firstPage" xlink:label="loc_Results_firstPage"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_firstPage" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_firstPage">firstPage</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_firstPage" xlink:to="lbl_Results_firstPage"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_lastPage" xlink:label="loc_Results_lastPage"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_lastPage" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_lastPage">lastPage</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_lastPage" xlink:to="lbl_Results_lastPage"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_totalPages" xlink:label="loc_Results_totalPages"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_totalPages" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_totalPages">totalPages</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_totalPages" xlink:to="lbl_Results_totalPages"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_id" xlink:label="loc_Results_id"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_id" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_id">id</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_id" xlink:to="lbl_Results_id"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Link_rel" xlink:label="loc_Link_rel"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Link_rel" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Link_rel">rel</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Link_rel" xlink:to="lbl_Link_rel"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Link_href" xlink:label="loc_Link_href"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Link_href" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Link_href">href</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Link_href" xlink:to="lbl_Link_href"/>
+    <link:loc xlink:type="locator" xlink:href="definition_catalogue_search_results.xbrl.xsd#Results_links" xlink:label="loc_Results_links"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Results_links" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Results_links">links</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Results_links" xlink:to="lbl_Results_links"/>
+  </link:labelLink>
+</link:linkbase>
