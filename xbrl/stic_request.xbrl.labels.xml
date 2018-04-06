@@ -2,167 +2,167 @@
   <link:roleRef roleURI="http://ausdx.io/label" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#label"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/label">
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request" xlink:label="loc_Request_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_label">Request</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_label" xlink:to="lbl__Request_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_label">Request</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_label" xlink:to="lbl_Request_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_sender" xlink:label="loc_Request_sender_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_sender_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_sender_label">sender</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_sender_label" xlink:to="lbl__Request_sender_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_sender_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_sender_label">sender</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_sender_label" xlink:to="lbl_Request_sender_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_requestor" xlink:label="loc_Request_requestor_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_requestor_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_requestor_label">requestor</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_requestor_label" xlink:to="lbl__Request_requestor_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_requestor_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_requestor_label">requestor</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_requestor_label" xlink:to="lbl_Request_requestor_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_abn" xlink:label="loc_Request_abn_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_abn_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_abn_label">abn</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_abn_label" xlink:to="lbl__Request_abn_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_abn_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_abn_label">abn</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_abn_label" xlink:to="lbl_Request_abn_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_action" xlink:label="loc_Request_action_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_action_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_action_label">action</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_action_label" xlink:to="lbl__Request_action_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_action_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_action_label">action</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_action_label" xlink:to="lbl_Request_action_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_responseCode" xlink:label="loc_Request_responseCode_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_responseCode_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_responseCode_label">responseCode</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_responseCode_label" xlink:to="lbl__Request_responseCode_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_label">responseCode</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_responseCode_label" xlink:to="lbl_Request_responseCode_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_person" xlink:label="loc_Request_person_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_person_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_person_label">person</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_person_label" xlink:to="lbl__Request_person_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_person_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_person_label">person</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_person_label" xlink:to="lbl_Request_person_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_tfn" xlink:label="loc_Person_tfn_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_tfn_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_tfn_label">tfn</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_tfn_label" xlink:to="lbl__Person_tfn_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_tfn_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_tfn_label">tfn</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_tfn_label" xlink:to="lbl_Person_tfn_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_dayOfBirth" xlink:label="loc_Person_dayOfBirth_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_dayOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_dayOfBirth_label">dayOfBirth</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_dayOfBirth_label" xlink:to="lbl__Person_dayOfBirth_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_dayOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_dayOfBirth_label">dayOfBirth</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_dayOfBirth_label" xlink:to="lbl_Person_dayOfBirth_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_monthOfBirth" xlink:label="loc_Person_monthOfBirth_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_monthOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_monthOfBirth_label">monthOfBirth</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_monthOfBirth_label" xlink:to="lbl__Person_monthOfBirth_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_monthOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_monthOfBirth_label">monthOfBirth</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_monthOfBirth_label" xlink:to="lbl_Person_monthOfBirth_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_yearOfBirth" xlink:label="loc_Person_yearOfBirth_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_yearOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_yearOfBirth_label">yearOfBirth</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_yearOfBirth_label" xlink:to="lbl__Person_yearOfBirth_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_yearOfBirth_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_yearOfBirth_label">yearOfBirth</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_yearOfBirth_label" xlink:to="lbl_Person_yearOfBirth_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_surname" xlink:label="loc_Person_surname_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_surname_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_surname_label">surname</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_surname_label" xlink:to="lbl__Person_surname_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_surname_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_surname_label">surname</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_surname_label" xlink:to="lbl_Person_surname_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_givenName" xlink:label="loc_Person_givenName_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_givenName_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_givenName_label">givenName</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_givenName_label" xlink:to="lbl__Person_givenName_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_givenName_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_givenName_label">givenName</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_givenName_label" xlink:to="lbl_Person_givenName_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_middleName" xlink:label="loc_Person_middleName_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_middleName_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_middleName_label">middleName</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_middleName_label" xlink:to="lbl__Person_middleName_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_middleName_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_middleName_label">middleName</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_middleName_label" xlink:to="lbl_Person_middleName_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_address" xlink:label="loc_Request_address_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_address_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_address_label">address</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_address_label" xlink:to="lbl__Request_address_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_address_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_address_label">address</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_address_label" xlink:to="lbl_Request_address_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_line1" xlink:label="loc_Address_line1_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_line1_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_line1_label">line1</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_line1_label" xlink:to="lbl__Address_line1_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_line1_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_line1_label">line1</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_line1_label" xlink:to="lbl_Address_line1_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_line2" xlink:label="loc_Address_line2_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_line2_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_line2_label">line2</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_line2_label" xlink:to="lbl__Address_line2_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_line2_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_line2_label">line2</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_line2_label" xlink:to="lbl_Address_line2_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_suburb" xlink:label="loc_Address_suburb_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_suburb_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_suburb_label">suburb</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_suburb_label" xlink:to="lbl__Address_suburb_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_suburb_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_suburb_label">suburb</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_suburb_label" xlink:to="lbl_Address_suburb_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_postcode" xlink:label="loc_Address_postcode_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_postcode_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_postcode_label">postcode</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_postcode_label" xlink:to="lbl__Address_postcode_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_postcode_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_postcode_label">postcode</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_postcode_label" xlink:to="lbl_Address_postcode_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_state" xlink:label="loc_Address_state_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_state_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_state_label">state</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_state_label" xlink:to="lbl__Address_state_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_state_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_state_label">state</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_state_label" xlink:to="lbl_Address_state_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_country" xlink:label="loc_Address_country_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_country_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_country_label">country</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_country_label" xlink:to="lbl__Address_country_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_country_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_country_label">country</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_country_label" xlink:to="lbl_Address_country_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_account" xlink:label="loc_Request_account_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_account_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_account_label">account</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_account_label" xlink:to="lbl__Request_account_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_account_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_account_label">account</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_account_label" xlink:to="lbl_Request_account_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountNumber" xlink:label="loc_Account_accountNumber_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountNumber_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountNumber_label">accountNumber</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountNumber_label" xlink:to="lbl__Account_accountNumber_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountNumber_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountNumber_label">accountNumber</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountNumber_label" xlink:to="lbl_Account_accountNumber_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountStatus" xlink:label="loc_Account_accountStatus_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountStatus_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountStatus_label">accountStatus</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountStatus_label" xlink:to="lbl__Account_accountStatus_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountStatus_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountStatus_label">accountStatus</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatus_label" xlink:to="lbl_Account_accountStatus_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountStatusDate" xlink:label="loc_Account_accountStatusDate_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountStatusDate_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountStatusDate_label">accountStatusDate</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountStatusDate_label" xlink:to="lbl__Account_accountStatusDate_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountStatusDate_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountStatusDate_label">accountStatusDate</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatusDate_label" xlink:to="lbl_Account_accountStatusDate_label"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_usi" xlink:label="loc_Account_usi_label"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_usi_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_usi_label">usi</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_usi_label" xlink:to="lbl__Account_usi_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_usi_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_usi_label">usi</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_usi_label" xlink:to="lbl_Account_usi_label"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#definition"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition">
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_sender" xlink:label="loc_Request_sender_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_sender_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_sender_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_sender_definition" xlink:to="lbl__Request_sender_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_sender_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_sender_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_sender_definition" xlink:to="lbl_Request_sender_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_requestor" xlink:label="loc_Request_requestor_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_requestor_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_requestor_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_requestor_definition" xlink:to="lbl__Request_requestor_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_requestor_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_requestor_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_requestor_definition" xlink:to="lbl_Request_requestor_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_abn" xlink:label="loc_Request_abn_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_abn_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_abn_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_abn_definition" xlink:to="lbl__Request_abn_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_abn_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_abn_definition">A unique public identifier issued to all entities registered in the Australian Business Register (ABR), to be used in their dealings with government. Companies registered under the Corporations Law and business entities carrying on an enterprise in Australia are entitled to an ABN.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_abn_definition" xlink:to="lbl_Request_abn_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_action" xlink:label="loc_Request_action_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_action_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_action_definition">Information describing the reason for an interaction as required by the receiving agency.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_action_definition" xlink:to="lbl__Request_action_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_action_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_action_definition">Information describing the reason for an interaction as required by the receiving agency.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_action_definition" xlink:to="lbl_Request_action_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_responseCode" xlink:label="loc_Request_responseCode_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_responseCode_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_responseCode_definition">The HTTP response code for this request.
+    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_definition">The HTTP response code for this request.
 For more information, see [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_responseCode_definition" xlink:to="lbl__Request_responseCode_definition"/>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_responseCode_definition" xlink:to="lbl_Request_responseCode_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_tfn" xlink:label="loc_Person_tfn_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_tfn_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_tfn_definition">A unique number issued by the Tax Office to individuals and organisations to identify their tax records. It increases the efficiency in administering tax and other Australian Government systems such as income support payments. It is also used as the identifier for clients' income tax roles. A Tax File Number (TFN) can be used externally only for communication with the Tax Office, either directly by the client, or by an external organisation that is required to collect and quote the client's TFN to the Tax Office.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_tfn_definition" xlink:to="lbl__Person_tfn_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_tfn_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_tfn_definition">A unique number issued by the Tax Office to individuals and organisations to identify their tax records. It increases the efficiency in administering tax and other Australian Government systems such as income support payments. It is also used as the identifier for clients' income tax roles. A Tax File Number (TFN) can be used externally only for communication with the Tax Office, either directly by the client, or by an external organisation that is required to collect and quote the client's TFN to the Tax Office.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_tfn_definition" xlink:to="lbl_Person_tfn_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_dayOfBirth" xlink:label="loc_Person_dayOfBirth_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_dayOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_dayOfBirth_definition">The date of the day in the month in which an individual was born</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_dayOfBirth_definition" xlink:to="lbl__Person_dayOfBirth_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_dayOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_dayOfBirth_definition">The date of the day in the month in which an individual was born</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_dayOfBirth_definition" xlink:to="lbl_Person_dayOfBirth_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_monthOfBirth" xlink:label="loc_Person_monthOfBirth_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_monthOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_monthOfBirth_definition">The month in which an individual was born</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_monthOfBirth_definition" xlink:to="lbl__Person_monthOfBirth_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_monthOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_monthOfBirth_definition">The month in which an individual was born</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_monthOfBirth_definition" xlink:to="lbl_Person_monthOfBirth_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_yearOfBirth" xlink:label="loc_Person_yearOfBirth_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_yearOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_yearOfBirth_definition">The year in which an individual was born</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_yearOfBirth_definition" xlink:to="lbl__Person_yearOfBirth_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_yearOfBirth_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_yearOfBirth_definition">The year in which an individual was born</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_yearOfBirth_definition" xlink:to="lbl_Person_yearOfBirth_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_surname" xlink:label="loc_Person_surname_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_surname_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_surname_definition">The person's last name or surname. The name by which a family group is identified.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_surname_definition" xlink:to="lbl__Person_surname_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_surname_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_surname_definition">The person's last name or surname. The name by which a family group is identified.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_surname_definition" xlink:to="lbl_Person_surname_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_givenName" xlink:label="loc_Person_givenName_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_givenName_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_givenName_definition">The name given to a person which is that person's identifying name within the family group or the name by which the person is uniquely socially identified; the name borne by an individual, often assigned by his or her parents shortly after birth, as opposed to the inherited surname.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_givenName_definition" xlink:to="lbl__Person_givenName_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_givenName_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_givenName_definition">The name given to a person which is that person's identifying name within the family group or the name by which the person is uniquely socially identified; the name borne by an individual, often assigned by his or her parents shortly after birth, as opposed to the inherited surname.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_givenName_definition" xlink:to="lbl_Person_givenName_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Person_middleName" xlink:label="loc_Person_middleName_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Person_middleName_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Person_middleName_definition">The middle name given to a person which complements that person's identifying name within the family group or the name by which the person is uniquely socially identified.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Person_middleName_definition" xlink:to="lbl__Person_middleName_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Person_middleName_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Person_middleName_definition">The middle name given to a person which complements that person's identifying name within the family group or the name by which the person is uniquely socially identified.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Person_middleName_definition" xlink:to="lbl_Person_middleName_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_line1" xlink:label="loc_Address_line1_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_line1_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_line1_definition">First line utilising free format, that is used to create a semi structured address.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_line1_definition" xlink:to="lbl__Address_line1_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_line1_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_line1_definition">First line utilising free format, that is used to create a semi structured address.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_line1_definition" xlink:to="lbl_Address_line1_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_line2" xlink:label="loc_Address_line2_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_line2_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_line2_definition">Second line utilising free format, that is used to create a semi structured address.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_line2_definition" xlink:to="lbl__Address_line2_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_line2_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_line2_definition">Second line utilising free format, that is used to create a semi structured address.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_line2_definition" xlink:to="lbl_Address_line2_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_suburb" xlink:label="loc_Address_suburb_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_suburb_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_suburb_definition">A word or combination of words, by which a geographic locality/suburb is designated or known.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_suburb_definition" xlink:to="lbl__Address_suburb_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_suburb_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_suburb_definition">A word or combination of words, by which a geographic locality/suburb is designated or known.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_suburb_definition" xlink:to="lbl_Address_suburb_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_postcode" xlink:label="loc_Address_postcode_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_postcode_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_postcode_definition">The Australian descriptor for a postal delivery area, aligned with locality, suburb or place</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_postcode_definition" xlink:to="lbl__Address_postcode_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_postcode_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_postcode_definition">The Australian descriptor for a postal delivery area, aligned with locality, suburb or place</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_postcode_definition" xlink:to="lbl_Address_postcode_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_state" xlink:label="loc_Address_state_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_state_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_state_definition">The code that is assigned to each Australian State or Territory</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_state_definition" xlink:to="lbl__Address_state_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_state_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_state_definition">The code that is assigned to each Australian State or Territory</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_state_definition" xlink:to="lbl_Address_state_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Address_country" xlink:label="loc_Address_country_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Address_country_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Address_country_definition">This represents the Country Code as prescribed by AS4590 and inherited from ISO 3166</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Address_country_definition" xlink:to="lbl__Address_country_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Address_country_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Address_country_definition">This represents the Country Code as prescribed by AS4590 and inherited from ISO 3166</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Address_country_definition" xlink:to="lbl_Address_country_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountNumber" xlink:label="loc_Account_accountNumber_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountNumber_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountNumber_definition">This is a unique number used to identify a superannuation member account.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountNumber_definition" xlink:to="lbl__Account_accountNumber_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountNumber_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountNumber_definition">This is a unique number used to identify a superannuation member account.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountNumber_definition" xlink:to="lbl_Account_accountNumber_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountStatus" xlink:label="loc_Account_accountStatus_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountStatus_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountStatus_definition">This indicates the status of the member's superannuation account.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountStatus_definition" xlink:to="lbl__Account_accountStatus_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountStatus_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountStatus_definition">This indicates the status of the member's superannuation account.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatus_definition" xlink:to="lbl_Account_accountStatus_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountStatusDate" xlink:label="loc_Account_accountStatusDate_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountStatusDate_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountStatusDate_definition">The date the member's superannuation account status was updated.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountStatusDate_definition" xlink:to="lbl__Account_accountStatusDate_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountStatusDate_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountStatusDate_definition">The date the member's superannuation account status was updated.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatusDate_definition" xlink:to="lbl_Account_accountStatusDate_definition"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_usi" xlink:label="loc_Account_usi_definition"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_usi_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_usi_definition">The unique superannuation identifier is used for identifying the product within the fund which the member account belongs to.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_usi_definition" xlink:to="lbl__Account_usi_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Account_usi_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_usi_definition">The unique superannuation identifier is used for identifying the product within the fund which the member account belongs to.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_usi_definition" xlink:to="lbl_Account_usi_definition"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#guidance"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance">
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_responseCode" xlink:label="loc_Request_responseCode_guidance"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_responseCode_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_responseCode_guidance">Check the wikipedia article for specific meanings of each code, but in general:
+    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_guidance">Check the wikipedia article for specific meanings of each code, but in general:
 
 - 1xx are Informational responses
 -	2xx are Success
 -	3xx are Redirection
 -	4xx are Client errors
 -	5xx are Server errors</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_responseCode_guidance" xlink:to="lbl__Request_responseCode_guidance"/>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_responseCode_guidance" xlink:to="lbl_Request_responseCode_guidance"/>
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_accountStatus" xlink:label="loc_Account_accountStatus_guidance"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Account_accountStatus_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Account_accountStatus_guidance">Valid values are:
+    <link:label xlink:type="resource" xlink:label="lbl_Account_accountStatus_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_accountStatus_guidance">Valid values are:
 Lost = The member is lost due to not being contactable with an account balance that is greater than zero.
 Inactive = The member is lost due to inactivity with an account balance greater than zero.
 Found = The member was previously reported as lost or inactive and has re-established contact. 
@@ -171,12 +171,12 @@ Error = The member was previously reported in error.
 Open =  The member's account is open and the fund will accept payments.
 Closed = The member's account is closed and will not accept payments.
 Where a member is both inactive and lost, the member should be reported as 'Lost'.</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Account_accountStatus_guidance" xlink:to="lbl__Account_accountStatus_guidance"/>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatus_guidance" xlink:to="lbl_Account_accountStatus_guidance"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#comment"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment">
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_responseCode" xlink:label="loc_Request_responseCode_comment"/>
-    <link:label xlink:type="resource" xlink:label="lbl__Request_responseCode_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl__Request_responseCode_comment">A code to indicate the success or failure of the request</link:label>
-    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc__Request_responseCode_comment" xlink:to="lbl__Request_responseCode_comment"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_comment">A code to indicate the success or failure of the request</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_responseCode_comment" xlink:to="lbl_Request_responseCode_comment"/>
   </link:labelLink>
 </link:linkbase>
