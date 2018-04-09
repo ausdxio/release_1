@@ -176,7 +176,7 @@ Where a member is both inactive and lost, the member should be reported as 'Lost
   <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#comment"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment">
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_responseCode" xlink:label="loc_Request_responseCode_comment"/>
-    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_comment">A code to indicate the success or failure of the request</link:label>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_responseCode_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_responseCode_comment">Another code to indicate the success or failure of the request</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_responseCode_comment" xlink:to="lbl_Request_responseCode_comment"/>
   </link:labelLink>
 </link:linkbase>
