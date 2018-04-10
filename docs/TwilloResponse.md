@@ -11,6 +11,9 @@
 
 #### DateCreated: string
 
+This is the creation date
+Any dates in the future will cause an erro
+
 #### DateUpdated: string
 
 #### DateSent: string

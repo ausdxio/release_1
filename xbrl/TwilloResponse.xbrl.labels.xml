@@ -52,5 +52,10 @@
   <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#guidance"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance"></link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#comment"/>
-  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment"></link:labelLink>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment">
+    <link:loc xlink:type="locator" xlink:href="TwilloResponse.xbrl.xsd#SMSMessage_DateCreated" xlink:label="loc_SMSMessage_DateCreated_comment"/>
+    <link:label xlink:type="resource" xlink:label="lbl_SMSMessage_DateCreated_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_SMSMessage_DateCreated_comment">This is the creation date
+Any dates in the future will cause an erro</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_DateCreated_comment" xlink:to="lbl_SMSMessage_DateCreated_comment"/>
+  </link:labelLink>
 </link:linkbase>
