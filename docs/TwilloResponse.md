@@ -1,27 +1,5 @@
 # TwilloResponse
 
-``` json-floating
-{
-  "SMSMessage": {
-    "Sid": "foo",
-    "DateCreated": "foo",
-    "DateUpdated": "foo",
-    "DateSent": "foo",
-    "AccountSid": "foo",
-    "To": "foo",
-    "From": "foo",
-    "Body": "foo",
-    "Status": "foo",
-    "Flag": [
-      "foo"
-    ],
-    "ApiVersion": "foo",
-    "Price": 3.14,
-    "Uri": "foo"
-  }
-}
-```
-
 ## TwilloResponse
 
 #### SMSMessage: [SMSMessage](#smsmessage)

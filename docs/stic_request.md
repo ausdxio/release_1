@@ -1,38 +1,5 @@
 # stic_request
 
-``` json-floating
-{
-  "sender": "foo",
-  "requestor": "foo",
-  "abn": "foo",
-  "action": "foo",
-  "responseCode": 42,
-  "person": {
-    "tfn": "foo",
-    "dayOfBirth": "foo",
-    "monthOfBirth": "foo",
-    "yearOfBirth": "foo",
-    "surname": "foo",
-    "givenName": "foo",
-    "middleName": "foo"
-  },
-  "address": {
-    "line1": "foo",
-    "line2": "foo",
-    "suburb": "foo",
-    "postcode": "foo",
-    "state": "foo",
-    "country": "foo"
-  },
-  "account": {
-    "accountNumber": "foo",
-    "accountStatus": "foo",
-    "accountStatusDate": "foo",
-    "usi": "foo"
-  }
-}
-```
-
 ## Request
 
 #### sender ([Identifiers Australian Business Number Identifier](https://definitions.ausdx.io/definition/trc/de26)): string

@@ -1,33 +1,5 @@
 # definition_catalogue_search_results
 
-``` json-floating
-{
-  "content": [
-    {
-      "name": "foo",
-      "domain": "foo",
-      "definition": "foo",
-      "guidance": "foo",
-      "identifier": "foo",
-      "usage": [
-        "foo"
-      ]
-    }
-  ],
-  "numberOfElements": 42,
-  "firstPage": true,
-  "lastPage": true,
-  "totalPages": 42,
-  "id": {
-    "rel": "foo",
-    "href": "foo"
-  },
-  "links": [
-    "bar"
-  ]
-}
-```
-
 ## Results
 
 #### content: [Definition](#content)[]
