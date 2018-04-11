@@ -79,6 +79,12 @@
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_usi" xlink:label="loc_Account_usi_label"/>
     <link:label xlink:type="resource" xlink:label="lbl_Account_usi_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_usi_label">usi</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_usi_label" xlink:to="lbl_Account_usi_label"/>
+    <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Request_geo" xlink:label="loc_Request_geo_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Request_geo_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Request_geo_label">geo</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Request_geo_label" xlink:to="lbl_Request_geo_label"/>
+    <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Geo_somethingNew" xlink:label="loc_Geo_somethingNew_label"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Geo_somethingNew_label" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Geo_somethingNew_label">somethingNew</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Geo_somethingNew_label" xlink:to="lbl_Geo_somethingNew_label"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#definition"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition">
@@ -149,6 +155,9 @@ For more information, see [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP
     <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Account_usi" xlink:label="loc_Account_usi_definition"/>
     <link:label xlink:type="resource" xlink:label="lbl_Account_usi_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Account_usi_definition">The unique superannuation identifier is used for identifying the product within the fund which the member account belongs to.</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_usi_definition" xlink:to="lbl_Account_usi_definition"/>
+    <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Geo_somethingNew" xlink:label="loc_Geo_somethingNew_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Geo_somethingNew_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Geo_somethingNew_definition">The geographic latitude of a point on the earth is a measurement in degrees north or south of the equator reference to a prescribed datum.  Latitudes south of the equator are expressed as a negative number, north of the equator as positive.</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Geo_somethingNew_definition" xlink:to="lbl_Geo_somethingNew_definition"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#guidance"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance">
@@ -172,6 +181,9 @@ Open =  The member's account is open and the fund will accept payments.
 Closed = The member's account is closed and will not accept payments.
 Where a member is both inactive and lost, the member should be reported as 'Lost'.</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Account_accountStatus_guidance" xlink:to="lbl_Account_accountStatus_guidance"/>
+    <link:loc xlink:type="locator" xlink:href="stic_request.xbrl.xsd#Geo_somethingNew" xlink:label="loc_Geo_somethingNew_guidance"/>
+    <link:label xlink:type="resource" xlink:label="lbl_Geo_somethingNew_guidance" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_Geo_somethingNew_guidance">Usage Example: -33.91277417</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_Geo_somethingNew_guidance" xlink:to="lbl_Geo_somethingNew_guidance"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="stic_request.xbrl.xsd#comment"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/comment">

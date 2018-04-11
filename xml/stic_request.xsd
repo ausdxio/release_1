@@ -10,9 +10,15 @@
         <xs:element name="person" type="Person"/>
         <xs:element name="address" type="Address"/>
         <xs:element name="account" type="Account"/>
+        <xs:element name="geo" type="Geo"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:complexType name="Geo">
+    <xs:sequence>
+      <xs:element name="somethingNew" type="xs:float"/>
+    </xs:sequence>
+  </xs:complexType>
   <xs:complexType name="Account">
     <xs:sequence>
       <xs:element name="accountNumber" type="xs:string"/>

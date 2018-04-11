@@ -51,6 +51,21 @@ Check the wikipedia article for specific meanings of each code, but in general:
 
 #### account: [Account](#account)
 
+#### geo: [Geo](#geo)
+
+
+## Geo
+
+#### somethingNew ([Address Details Geocode Latitude Number](https://definitions.ausdx.io/definition/fs/de13091)): float
+
+The geographic latitude of a point on the earth is a measurement in degrees north or south of the equator reference to a prescribed datum.  Latitudes south of the equator are expressed as a negative number, north of the equator as positive.
+
+
+
+Usage Example: -33.91277417
+
+
+
 
 ## Account
 

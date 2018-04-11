@@ -26,5 +26,8 @@
     "accountStatus": "foo",
     "accountStatusDate": "foo",
     "usi": "foo"
+  },
+  "geo": {
+    "somethingNew": 3.14
   }
 }

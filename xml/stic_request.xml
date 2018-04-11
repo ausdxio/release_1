@@ -27,4 +27,7 @@
     <accountStatusDate>foo</accountStatusDate>
     <usi>foo</usi>
   </account>
+  <geo>
+    <somethingNew>3.14</somethingNew>
+  </geo>
 </Request>

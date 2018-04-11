@@ -40,5 +40,8 @@
       <tns:Account_accountStatusDate contextRef="c0001">foo</tns:Account_accountStatusDate>
       <tns:Account_usi contextRef="c0001">foo</tns:Account_usi>
     </tns:Request_account>
+    <tns:Request_geo>
+      <tns:Geo_somethingNew decimals="0" contextRef="c0001" unitRef="u0001">3.14</tns:Geo_somethingNew>
+    </tns:Request_geo>
   </tns:Request>
 </xbrli:xbrl>
