@@ -48,7 +48,11 @@
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_Uri_label" xlink:to="lbl_SMSMessage_Uri_label"/>
   </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/definition" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#definition"/>
-  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition"></link:labelLink>
+  <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/definition">
+    <link:loc xlink:type="locator" xlink:href="TwilloResponse.xbrl.xsd#SMSMessage_Uri" xlink:label="loc_SMSMessage_Uri_definition"/>
+    <link:label xlink:type="resource" xlink:label="lbl_SMSMessage_Uri_definition" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_SMSMessage_Uri_definition">A URL (Uniform Resource Locator) is an address of a resource on the internet</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_Uri_definition" xlink:to="lbl_SMSMessage_Uri_definition"/>
+  </link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/guidance" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#guidance"/>
   <link:labelLink xlink:type="extended" xlink:role="http://ausdx.io/guidance"></link:labelLink>
   <link:roleRef roleURI="http://ausdx.io/comment" xlink:type="simple" xlink:href="TwilloResponse.xbrl.xsd#comment"/>
@@ -57,5 +61,8 @@
     <link:label xlink:type="resource" xlink:label="lbl_SMSMessage_DateCreated_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_SMSMessage_DateCreated_comment">This is the creation date
 Any dates in the future will cause an erro</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_DateCreated_comment" xlink:to="lbl_SMSMessage_DateCreated_comment"/>
+    <link:loc xlink:type="locator" xlink:href="TwilloResponse.xbrl.xsd#SMSMessage_Uri" xlink:label="loc_SMSMessage_Uri_comment"/>
+    <link:label xlink:type="resource" xlink:label="lbl_SMSMessage_Uri_comment" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="lbl_SMSMessage_Uri_comment">Our service will not accept URIs with query parameters</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_SMSMessage_Uri_comment" xlink:to="lbl_SMSMessage_Uri_comment"/>
   </link:labelLink>
 </link:linkbase>

@@ -34,6 +34,12 @@ Any dates in the future will cause an erro
 
 #### Price: float
 
-#### Uri: string
+#### Uri ([URL](https://ausdx-lab.herokuapp.com/define/de12)): string
+
+Our service will not accept URIs with query parameters
+
+A URL (Uniform Resource Locator) is an address of a resource on the internet
+
+
 
 
